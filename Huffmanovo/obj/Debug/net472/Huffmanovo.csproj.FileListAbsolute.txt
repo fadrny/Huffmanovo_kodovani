@@ -1,0 +1,9 @@
+D:\01sl\c#\Huffmanovo\Huffmanovo\bin\Debug\net472\Huffmanovo.exe.config
+D:\01sl\c#\Huffmanovo\Huffmanovo\bin\Debug\net472\Huffmanovo.exe
+D:\01sl\c#\Huffmanovo\Huffmanovo\bin\Debug\net472\Huffmanovo.pdb
+D:\01sl\c#\Huffmanovo\Huffmanovo\obj\Debug\net472\Huffmanovo.csprojAssemblyReference.cache
+D:\01sl\c#\Huffmanovo\Huffmanovo\obj\Debug\net472\Huffmanovo.AssemblyInfoInputs.cache
+D:\01sl\c#\Huffmanovo\Huffmanovo\obj\Debug\net472\Huffmanovo.AssemblyInfo.cs
+D:\01sl\c#\Huffmanovo\Huffmanovo\obj\Debug\net472\Huffmanovo.csproj.CoreCompileInputs.cache
+D:\01sl\c#\Huffmanovo\Huffmanovo\obj\Debug\net472\Huffmanovo.exe
+D:\01sl\c#\Huffmanovo\Huffmanovo\obj\Debug\net472\Huffmanovo.pdb
